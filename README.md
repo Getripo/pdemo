@@ -1,3 +1,3 @@
 # pdemo
-First Repository for Acitivities
-s
+First repository for Acitivities
+# CHECKPOINT 1
